@@ -5,6 +5,10 @@ body {
     background-color: #599e4b;
 }
 
+ul.ba {
+    list-style-type: none;
+}
+
 
 /** HEADER **/
 
