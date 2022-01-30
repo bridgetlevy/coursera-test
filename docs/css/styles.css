@@ -4,7 +4,7 @@ body {
 }
 
 #header-nav {
-    background-color: #525252;
+    background-color: #97c2e7;
     border-radius: 0;
     border: 0;
 }
@@ -15,7 +15,7 @@ body {
 
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
-    background-color: #cacac8;
+    background-color: #fae5e5;
 }
 
 .navbar-collapse {
@@ -34,7 +34,6 @@ body {
     color: #d3d2d2;
     font-size: 1.8em;
     font-weight: bold;
-    text-shadow: 1px 1px 1px #222;
 }
 
 .navbar-brand a:hover,
